@@ -47,3 +47,18 @@ The project utilizes the GTZAN dataset, which includes audio samples across vari
 -> Reggae
 
 
+# Technologies Used:
+
+Python: Primary programming language for data processing, modeling, and analysis.
+
+Scikit-learn: Machine learning library used for building KNN and Random Forest classifiers.
+
+Pandas & NumPy: Data manipulation and numerical computing libraries.
+
+LIME: Library for explainable AI to interpret model predictions.
+
+Librosa: Audio processing library used to extract audio features from music files.
+
+Matplotlib & Seaborn: Visualization libraries for plotting and analysis.
+
+
