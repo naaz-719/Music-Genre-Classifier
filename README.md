@@ -7,6 +7,8 @@ This project uses machine learning models—K-Nearest Neighbors (KNN) and Random
 
 The dataset used for training and evaluation is the GTZAN Music Genre Classification dataset, sourced from Kaggle.
 
+- 🌐 Live Application: [App](https://musicgenreclassifierproject.streamlit.app/)
+
 
 # Key Features
 Genre Classification Models: Uses K-Nearest Neighbors (KNN) and Random Forest classifiers to identify music genres based on audio features.
